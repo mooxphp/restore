@@ -18,7 +18,7 @@
     ],
     "require": {
         "moox/core": "^3.0.3",
-        "flowframe/laravel-trend": "^0.3.0"
+        "flowframe/laravel-trend": "^0.4.0"
     },
     "autoload": {
         "psr-4": {
