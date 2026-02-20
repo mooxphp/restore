@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "moox/core": "5.0.11",
+        "moox/core": "5.0.12",
         "flowframe/laravel-trend": "^0.4.0"
     },
     "autoload": {
@@ -35,7 +35,7 @@
     },
     "prefer-stable": true,
     "require-dev": {
-        "moox/devtools": "5.0.11"
+        "moox/devtools": "5.0.12"
     },
     "config": {
         "allow-plugins": {
